@@ -1,0 +1,9 @@
+Building WealthCoin
+
+See doc/readme-qt.rst for instructions on building WealthCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WealthCoin.
+
+See doc/build-*.txt for instructions on building WealthCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WealthCoin.
